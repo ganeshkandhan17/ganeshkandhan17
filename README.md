@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Student<br>👨‍💻Tech Lover<br>🦾Mechanical Background
+👨‍🎓 Student<br>👨‍💻Tech Lover<br>🦾Mechanical Background<br>🏫KSRCT Product
 
 
 ## 🌐 Socials:
