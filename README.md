@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm GANESH KANDHAN V M</h1>
 <h3 align="center">I am a final-year student at K.S. Rangasamy College of Technology studying mechanical engineering.I have a love for innovation and a broad skill set thanks to my academic path.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkandhan17&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkandhan17" /> </p>
+
 - 🔭 I’m currently working on **Turf Web Desigining**
 
 - 🌱 I’m currently learning **React**
