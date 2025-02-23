@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm GANESH KANDHAN V M</h1>
-<h3 align="center">I am a final-year student at K.S. Rangasamy College of Technology studying mechanical engineering.I have a love for innovation and a broad skill set thanks to my academic path.<
-  ![](https://hit.yhype.me/github/profile?account_id=87404827)
+<h3 align="center">I am a final-year student at K.S. Rangasamy College of Technology studying mechanical engineering.I have a love for innovation and a broad skill set thanks to my academic path.</h3>
+
+<p align="left"></p>
 
 - 🔭 I’m currently working on **Personal Projects**
 
@@ -29,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshkandhan17&show_icons=true&locale=en" alt="ganeshkandhan17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkandhan17&" alt="ganeshkandhan17" /></p>
+
+![](https://hit.yhype.me/github/profile?account_id=87404827)
